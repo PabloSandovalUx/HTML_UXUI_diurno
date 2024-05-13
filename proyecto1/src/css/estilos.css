@@ -1,0 +1,126 @@
+body{
+    background-color: pink;
+    font-family: "Merriweather", serif;
+}
+
+
+h4, .tachado{
+    font-family: "Jaro", sans-serif;
+    font-weight: 300;
+}
+
+.articulo1{
+    background-color: green;
+    color: red;
+}
+
+.articulo2{
+    color: blue;
+}
+
+.tachado{
+    text-decoration: line-through;
+    color: darkgreen;
+}
+
+
+.bold{
+    background-color: rgb(241, 241, 14);
+    color: red;
+    font-weight: 700;
+}
+
+
+
+header{
+    height: 100px;
+    background-color: red;
+    width: 100%;
+}
+footer{
+    background-color: darkblue;
+    color: white;
+    padding: 40px 0;
+}
+
+.img_perro{
+    width: 400px;
+    vertical-align: middle;
+}
+
+.textoImagen{
+    display: inline-block;
+    width: 400px;
+    text-align: left;
+    margin-left: 30px;
+    vertical-align: middle;
+}
+
+
+.fondoAzul{
+    background-color: darkblue;
+    color: white;
+}
+
+.fondoVerde{
+    background-color: white;
+}
+
+.divCentrado{
+    text-align: center;
+    margin: 0;
+    margin-top: 20px;
+    /* PADDING */
+    padding: 40px 0;
+}
+
+.imagenComiendo{
+    width: 400px;
+    vertical-align: middle;
+}
+
+.textoComiendo{
+    width: 400px;
+    display: inline-block;
+    text-align: right;
+    margin-right: 30px;
+    /* background-color: red; */
+    vertical-align: middle;
+}
+
+.tituloFooter{
+    text-align: center;
+}
+
+.contenidoFooter{
+    text-align: center;
+}
+
+.columnaFooter{
+    vertical-align: top;
+    background-color: green;
+    /* width: 250px; */
+    width: 28%;
+    display: inline-block;
+}
+.listadoFooter{
+    list-style: none;
+    padding-left: 0;
+}
+
+.columnaFooter h3{
+    text-align: left;
+}
+
+.listadoFooter li{
+    padding: 10px 0;
+    margin-bottom: 5px;
+    background-color: red;
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
