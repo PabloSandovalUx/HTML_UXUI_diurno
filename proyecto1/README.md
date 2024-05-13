@@ -9,8 +9,13 @@
 - [x] Estructura básica HTML semántico
 
 ### textos.html
-- [] Etiquetas de texto
+- [x] Etiquetas de texto
 
+### imagenes.html
+- [x] Etiquetas de imagen
+- [x] Footer
+- [x] Estructura columnas "adaptativas"
+- [x] Links
 
 
 
